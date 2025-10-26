@@ -1,0 +1,1 @@
+Developed an ATM simulation program demonstrating the customer selection and transaction process, including features like balance inquiry, deposit, and withdrawal. Implemented using efficient logic to mimic real-world ATM operations, enhancing understanding of conditional statements, user input handling, and program flow control in programming.
